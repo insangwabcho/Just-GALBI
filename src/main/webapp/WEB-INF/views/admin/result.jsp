@@ -8,6 +8,6 @@
 </head>
 <body>
 ${result}
-<br><button onclick="location.href='${path}/admin/adminpage.do'">관리자화면으로 돌아가기</button>
+<br><button onclick="location.href='${path}/admin/adminpage.do'">돌아가기</button>
 </body>
 </html>
