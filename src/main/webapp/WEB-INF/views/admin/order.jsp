@@ -72,7 +72,6 @@ function del(num){
 </head>
 <body>
 <h2>상품 등록</h2>
-  <!-- 첨부파일을 보낼 때 : method="post" enctype="multipart/form-data" -->
   <form id="form1" name="form1" method="post" enctype="multipart/form-data" action="${path}/admin/addList.do">
     <table>
       <tr>
